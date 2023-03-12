@@ -1,5 +1,6 @@
-package wikisearch.document
+package wikisearch.utilities
 
+import wikisearch.document.Document
 import wikisearch.utilities.Analyzer.Companion.analyze
 import kotlin.math.log10
 
